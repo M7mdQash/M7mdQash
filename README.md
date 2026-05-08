@@ -1,7 +1,7 @@
 ## Hello there 👋 Im Mohammad Abdulhafiz, A full stack developer
 💻 I like to use these libraries and frameworks:
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E): React, Jquery, NodeJS
-- ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54): django - flask
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54): django - flask
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white): Laravel
 
 ### currently Im:
