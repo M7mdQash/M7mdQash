@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hello there 👋 Im Mohammad Abdulhafiz, A full stack developer
+💻 I like to use these libraries and frameworks:
+- JS: React, Jquery, NodeJS
+- Python: django - flask
+- PHP: Laravel
 
+### currently Im:
+- in a Tuwaig academy bootcamp: Python web development
+- developing my portfolio and capstone project
+- working to find full time or COOP training full stack developer positions
+
+- Reach out to me here: mohammad.abdulhafiz.k@gmail.com
 <!--
 **M7mdQash/M7mdQash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
