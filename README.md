@@ -13,6 +13,8 @@ and of course databases:
 - developing my portfolio and capstone project
 - working to find full time or COOP training full stack developer positions
 
+### 🗃️ Portfolio: ![Link](https://m7mdqash.github.io/)
+### ✉️ Contact me 
 - Reach out to me here: mohammad.abdulhafiz.k@gmail.com
 <!--
 **M7mdQash/M7mdQash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
