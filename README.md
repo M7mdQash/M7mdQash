@@ -1,7 +1,10 @@
 ## Hello there 👋 Im Mohammad Abdulhafiz, A full stack developer
 paragraph: short describtion
 ### focus:
-### highlight and certs:
+### highlights:
+- achieving seconds honors in my university graduation
+- passing the first and second stages of the KAUST Cybersecurity programe
+- being accepted into one of tuwaig academy's bootcamp programes
 ### libraries and skills
 💻 I like to use these libraries and frameworks:
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) : ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) - ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
