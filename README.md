@@ -1,22 +1,23 @@
-## Hello there 👋 Im Mohammad Abdulhafiz, A full stack developer
-paragraph: short describtion
-### focus:
-### highlights:
+## Hello there 👋 Im Mohammad Abdulhafiz
+Fresh CS gradute and full stack developer with an eye for cybersecurity and devops, intrested in building usefull live solutions that users would love and use 
+
+### 🔎 highlights:
 - achieving seconds honors in my university graduation
 - passing the first and second stages of the KAUST Cybersecurity programe
 - being accepted into one of tuwaig academy's bootcamp programes
-### libraries and skills
-💻 I like to use these libraries and frameworks:
+### 🖥 Tech stack
+#### 💻 Libraries and frameworks:
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) : ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) - ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54): ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white): ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 - ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white): ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) - ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
-and of course databases:
+#### Databases:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### selected projects
-
+- graduation project Python based stock market prediction:
+- Yume capsule hotel booking website: 
 ### currently Im:
 - in a Tuwaig academy bootcamp: Python web development
 - developing my portfolio and capstone project
